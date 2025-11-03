@@ -1,2 +1,2 @@
 import pandas
-# The import function
+# The import functions
