@@ -1,5 +1,9 @@
 import pandas
 
 # The import functions
-def ()
+def juice (self, i):
+  if s=1:
+    return True
+
+return juice
 
