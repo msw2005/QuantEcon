@@ -1,7 +1,7 @@
 import pandas
 
 # The import functions
-# the fnction
+# the function
 def juice (self, i):
   if s=1:
     return True
